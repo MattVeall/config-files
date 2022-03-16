@@ -28,7 +28,7 @@ nnoremap <C-f> :NERDTreeToggle<CR>
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
 
-:colorscheme sonokai
+:colorscheme spacecamp_lite
 
 " Copy to clipboard
 vnoremap <leader>y "+y
